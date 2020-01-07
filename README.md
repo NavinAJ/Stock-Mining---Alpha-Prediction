@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "Alpha.png" width = 400 height=300>
+<img src = "Alpha.png" width = 600 height=300>
 </p>
 
 ### Stock-Mining---Alpha-Prediction
