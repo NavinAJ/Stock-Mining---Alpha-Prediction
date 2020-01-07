@@ -1,4 +1,6 @@
-<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi9srXG-_HmAhUSwjgGHfInBVUQjRx6BAgBEAQ&url=https%3A%2F%2Fcryptovest.com%2Feducation%2Fcrypto-trading-tips-momentum-indicators-explained-moving-averages%2F&psig=AOvVaw0vPW1LN5b09QaJpcW8VpNY&ust=1578502851741004">
+<p align="center">
+<img src = "Alpha.png" width = 400 height=300>
+</p>
 
 ### Stock-Mining---Alpha-Prediction
 Prediction of Alpha Score for stocks by using seven given influential factors and the Sentimental score Predicted for the Tweets extracted from Stock twist.
